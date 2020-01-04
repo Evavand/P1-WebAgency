@@ -1,0 +1,200 @@
+@media all and (max-width:480px)
+
+{
+/* Navigation header */
+
+	.navbar-hnav .nav-hitem
+	{
+		padding: 5px 10px 5px 10px;
+	}
+
+/* Section services */
+
+	#services
+	{
+		padding-top: ;
+	}
+
+	.header_sections
+	{
+		height: auto;
+	}
+
+	h1
+	{
+		text-align: center;
+		margin-top: 5%;
+	}
+
+	.sections_p 
+	{
+    	width: 70%;
+	}
+
+	.services_body
+	{
+		margin-top: 25px;
+	}
+/* Aside tableau UX, UI et SEO */
+	.grid_services ul
+	{
+		-ms-grid-columns: 90%;
+		grid-template-columns: 90%;
+		padding: 1rem 0 3rem 15%;
+	}
+
+	.cg
+	{
+		margin: 5% 0 0 8%;
+	}
+
+	.grid_services p
+	{	
+		margin-bottom: 0;
+	}
+
+/* Projects */
+	
+	#projects
+	{
+		padding-top: ;
+	}
+
+	.projects
+	{
+		height: 1750px;
+	}
+
+	.projects_body
+	{
+		display: block;
+		height: 1700px;
+	}
+
+/* Barre de navigation */
+	.projects_navigation
+	{
+		height: 200px;
+		width: 100%;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-flow: column wrap;
+		        flex-flow: column wrap;
+		-webkit-box-align: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+	}
+
+	.ul_projects_nav
+	{
+		width: 200px;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-flow: column wrap;
+		        flex-flow: column wrap;
+		-webkit-box-align: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+		margin: 0px;
+	}
+
+	.all_works
+	{
+		-moz-border-top-right-radius: 5px;
+		border-top-right-radius: 5px;	
+
+		-moz-border-bottom-right-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+
+	.dash_hover_1
+	{
+	
+		width: 200px;
+		margin:6px 0px 0px 0px;
+		-moz-border-bottom-right-radius: 5px;
+		border-bottom-right-radius: 5px;	
+	}
+
+	.creative,.corporate
+	{
+		-moz-border-top-right-radius: 5px;
+		border-top-right-radius: 5px;
+
+		-moz-border-top-left-radius: 5px;
+		border-top-left-radius: 5px;
+		
+
+		-moz-border-bottom-right-radius: 5px;
+		border-bottom-right-radius: 5px;
+
+		-moz-border-bottom-left-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
+
+	.dash_hover_2
+	{
+	
+		width: 200px;
+		margin:6px 0px 0px 0px;
+		-moz-border-bottom-right-radius: 5px;
+		border-bottom-right-radius: 5px;
+
+		-moz-border-bottom-left-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
+
+	.dash_hover_3
+	{
+	
+		width: 200px;
+		margin:6px 0px 0px 0px;
+		-moz-border-bottom-right-radius: 5px;
+		border-bottom-right-radius: 5px;
+
+		-moz-border-bottom-left-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
+
+	.portfolio
+	{
+		-moz-border-top-left-radius: 5px;
+		border-top-left-radius: 5px;
+
+		-moz-border-bottom-left-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
+
+	.dash_hover_4
+	{
+		width: 200px;
+		margin:6px 0px 0px 0px;
+		-moz-border-bottom-left-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
+
+/* Grille images*/
+
+	.grid_projects
+	{
+  		margin-top: 50px;
+	}
+
+/* Map-Contact */
+
+	#map_contact
+	{
+		padding-top: ;
+	}
+
+	#map_contact
+	{
+		margin-top: 100px;
+	}
+/* Formulaire */
+
+	form
+	{
+		width: 90%;
+	}
+}
